@@ -1,0 +1,23 @@
+appdirs==1.4.4
+attrdict==2.0.1
+attrs==19.3.0
+beautifulsoup4==4.9.1
+black==19.10b0
+bs4==0.0.1
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+-e git+github:lanky/python-fretboard@b62d974c7be34d5827e3b5b06c363aaa58c0e1c5#egg=fretboard
+idna==2.10
+lxml==4.5.1
+pathspec==0.8.0
+pyparsing==2.4.7
+PyYAML==5.3.1
+regex==2020.6.8
+requests==2.24.0
+six==1.15.0
+soupsieve==2.0.1
+svgwrite==1.4
+toml==0.10.1
+typed-ast==1.4.1
+urllib3==1.25.9
